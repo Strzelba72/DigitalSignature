@@ -27,9 +27,9 @@ The private key is kept strictly confidential by its owner, while the public key
 To generate TRNG I used https://github.com/Strzelba72/TrueRandomGenerator.
 
 Results of the program:
-1.First result with message 105.
-![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message1.png?raw=true)
-2.Second result with message 105.
-![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message2.png?raw=true)
-3.Third result with message 200.
-![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message3.png?raw=true)
+1.First result with message 105.<br>
+![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message1.png?raw=true)<br>
+2.Second result with message 105.<br>
+![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message2.png?raw=true)<br>
+3.Third result with message 200.<br>
+![alt text](https://github.com/Strzelba72/DigitalSignature/blob/main/message3.png?raw=true)<br>
