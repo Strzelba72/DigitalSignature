@@ -24,4 +24,4 @@ The information exchange mechanism based on RSA works as follows:
 3.Person B receives the encrypted message and uses their private key to decrypt it. The private key is used to transform the encrypted message back into its original form.
 
 The private key is kept strictly confidential by its owner, while the public key is shared with others who wish to encrypt messages for the private key owner. Thanks to the mathematical properties of RSA, encrypted messages can only be read using the corresponding private key, ensuring the confidentiality of the communication.
-To generate TRNG I use 
+To generate TRNG I used https://github.com/Strzelba72/TrueRandomGenerator.
